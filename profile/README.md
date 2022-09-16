@@ -1,3 +1,1 @@
-# TravelTrex
-
-Information about us
+# Hi there, this is TravelTrex 👋
